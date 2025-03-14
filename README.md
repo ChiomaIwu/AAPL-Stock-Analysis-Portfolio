@@ -45,7 +45,7 @@ The Power BI dashboard presents key insights from the analysis, including:
 
 ## How to Explore This Project  
 You can view all the analysis and reports directly in this repository:
-- **SQL Queries** → [Click here to view](aapl_analysis.sql)  
+- **SQL Queries** → [[Click here to view](aapl_analysis.sql)](https://github.com/ChiomaIwu/AAPL-Stock-Analysis-Portfolio/blob/main/aapl_analysis.sql.sql)  
 - **Excel File (Financial Metrics)** → [Click here to open](aapl_financials.xlsx)  
 - **Power BI Dashboard** → Download the `.pbix` file to explore the visualization  
 
