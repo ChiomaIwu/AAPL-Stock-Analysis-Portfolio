@@ -16,16 +16,18 @@ This project is a **fundamental and valuation analysis** of Apple Inc. (AAPL) us
 - **Power BI** – Data visualization and dashboard creation  
 
 ## Key Analysis & Metrics  
-  **Stock Price Analysis**  
+**Stock Price Analysis**  
    - Maximum, Minimum, and Average Closing Prices  
    - Monthly Average Closing Prices  
    - Simple Moving Averages (SMA)  
-   - Daily and Yearly Percentage Changes  
-  **Fundamental Analysis & Valuation Metrics**  
+   - Daily and Yearly Percentage Changes
+     
+**Fundamental Analysis & Valuation Metrics**  
    - **Return on Assets (ROA)** = Net Income / Total Assets  
    - **Return on Equity (ROE)** = Net Income / Shareholders' Equity  
-   - **Book Value Per Share (BVPS)** = Shareholders' Equity / Shares Outstanding  
- **Stock Price vs. Book Value Insights**  
+   - **Book Value Per Share (BVPS)** = Shareholders' Equity / Shares Outstanding
+     
+**Stock Price vs. Book Value Insights**  
    - Evaluating whether the stock is trading above or below its book value  
    - Trends in fundamental indicators over the years  
 
