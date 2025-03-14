@@ -21,7 +21,7 @@ The goal is to analyze **stock price trends, key financial ratios, and valuation
 - **Stock Price vs. Book Value Trends**  
 
 ## Dashboard & Insights  
-![Power BI Dashboard](dashboard_screenshot.png)  
+[Power BI Dashboard](dashboard_screenshot.png)  
 
 ## Files & Resources  
 - **[SQL Queries](aapl_analysis.sql)** – Contains all queries used in MySQL  
@@ -29,8 +29,11 @@ The goal is to analyze **stock price trends, key financial ratios, and valuation
 - **[Power BI Dashboard](aapl_dashboard.pbix)** – Visualization of the analysis  
 
 ---
+ 
+## How to Explore This Project  
+You can view all the analysis and reports directly in this repository:  
 
-## How to Use This Repository  
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/ChiomaIwu/AAPL-Stock-Analysis-Portfolio.git
+- **SQL Queries** → [Click here to view](aapl_analysis.sql)  
+- **Excel File (Financial Metrics)** → [Click here to open](aapl_financials.xlsx)  
+- **Power BI Dashboard** → Download the `.pbix` file to explore the visualization
+
